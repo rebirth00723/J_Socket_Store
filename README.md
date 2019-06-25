@@ -1,7 +1,8 @@
 # J_Socket_Store
 Practice socket
 
-## 說明:從Client將文本內容傳送至Server，Server接收到後，將內容除存在txt檔中
+## 說明:
+從Client將文本內容傳送至Server，Server接收到後，將內容除存在txt檔中
 MainC.java 為 Client端Main Class
 Main.java 為 Server端Main Class
 
